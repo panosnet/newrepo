@@ -1,1 +1,1 @@
-This is my first app!
+This is just a test for learning GIT
